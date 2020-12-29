@@ -160,3 +160,12 @@ pages:hover{
   position: relative;
   text-align:  center;
 }
+
+.backdoor {
+  text-align: center; 
+}
+.albumpics{
+  width: 430px;
+  height: 430px;
+  margin: 10px;
+}
