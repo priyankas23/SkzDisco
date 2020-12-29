@@ -7,5 +7,9 @@ function homepage(){
 }
 
 function albumlist(){
-  window.location.href = "albumlist.html"
+  window.location.href = "albumlist.html";
+}
+
+function mixtapepage(){
+  window.location.href = "mixtape.html";
 }

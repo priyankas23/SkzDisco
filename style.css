@@ -166,3 +166,32 @@ html{
   height: 430px;
   margin: 10px;
 }
+.header-container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: 'Staatliches', cursive
+}
+
+.titlealbum{
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 250px;
+  color: #8E3A22;
+}
+
+.subalbum{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 100px;
+  color: #ffffff;
+}
+
+#mixtape {
+  color: #FFFFFF;
+  text-shadow: 2px 2px #000000;
+}
