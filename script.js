@@ -5,3 +5,7 @@ function biaspage(){
 function homepage(){
   window.location.href = "index.html";
 }
+
+function albumlist(){
+  window.location.href = "albumlist.html"
+}
