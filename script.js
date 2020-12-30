@@ -29,3 +29,11 @@ function iamyoupage(){
 function mirohpage(){
   window.location.href = "miroh.html";
 }
+
+function ywpage(){
+  window.location.href = "yellowwood.html";
+}
+
+function eyoupage(){
+  window.location.href = "extraordinaryyou.html";
+}

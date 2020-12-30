@@ -280,3 +280,27 @@ p {
   position: absolute;
   top: 55%;
 }
+
+#yw{
+  color: #F2E2AA;
+  font-size: 170px;
+  text-shadow: 2px 2px #000000;
+}
+
+#ywsub{
+  color: #F2E2AA;
+  text-shadow: 2px 2px #000000;
+  position: absolute;
+  top: 55%;
+}
+
+#eyou{
+  color: #171622;
+  text-shadow: 2px 2px #FFFFFF;
+  font-size: 180px;
+}
+
+#eyousub{
+  color: #171622;
+  text-shadow: 2px 2px #FFFFFF;
+}
