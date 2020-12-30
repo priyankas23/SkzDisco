@@ -37,3 +37,7 @@ function ywpage(){
 function eyoupage(){
   window.location.href = "extraordinaryyou.html";
 }
+
+function levpage(){
+  window.location.href = "levanter.html";
+}

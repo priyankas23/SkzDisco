@@ -304,3 +304,30 @@ p {
   color: #171622;
   text-shadow: 2px 2px #FFFFFF;
 }
+
+#levanter {
+  color: #CCCED8;
+  text-shadow: 2px 2px #000000;
+}
+
+#levsub{
+  color: #CCCED8;
+  text-shadow: 2px 2px #000000;
+  position: absolute;
+  top: 70%
+}
+
+.song {
+  font-size: 60px;
+  font-family: 'Staatliches', cursive;
+  text-align: left;
+
+  color: #ffffff;
+  background-color: black;
+  padding: 0%;
+  margin: 0%;
+}
+
+.embed{
+  align: center;
+}
