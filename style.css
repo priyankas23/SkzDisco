@@ -247,3 +247,36 @@ p {
   color: #B4B8D2;
   text-shadow: 2px 2px #000000;
 }
+
+#iamwho{
+  color: #9B7332;
+  text-shadow: 2px 2px #000000;
+}
+
+#iamwhosub{
+  color: #9B7332;
+  text-shadow: 2px 2px #000000;
+}
+
+#iamyou{
+  color: #1F1E20;
+  text-shadow: 2px 2px #FFFFFF;
+}
+
+#iamyousub{
+  color: #1F1E20;
+  text-shadow: 2px 2px #FFFFFF;
+}
+
+#miroh{
+  color: #FFFFFF;
+  font-size: 190px;
+  text-shadow: 2px 2px #000000;
+}
+
+#mirohsub{
+  color: #FFFFFF;
+  text-shadow: 2px 2px #000000;
+  position: absolute;
+  top: 55%;
+}
