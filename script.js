@@ -13,3 +13,7 @@ function albumlist(){
 function mixtapepage(){
   window.location.href = "mixtape.html";
 }
+
+function iamnotpage(){
+  window.location.href = "iamnot.html"
+}

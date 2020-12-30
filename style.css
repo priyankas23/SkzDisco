@@ -217,10 +217,33 @@ p {
 .pic{
   width: 50%;
   margin: 10px;
+  position: relative;
+  top: -10px;
 }
 
 .about-album{
   display: flex;
   flex-direction: row;
   width: 100%;
+}
+
+.heading2 {
+  font-size: 100px;
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+
+  color: #ffffff;
+  background-color: black;
+  padding: 0%;
+  margin: 0%;
+}
+
+#iamnot{
+  color: #B4B8D2;
+  text-shadow: 2px 2px #000000;
+}
+
+#iamnotsub{
+  color: #B4B8D2;
+  text-shadow: 2px 2px #000000;
 }
